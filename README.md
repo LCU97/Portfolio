@@ -26,7 +26,7 @@
 
 ### Architecture & Design
 
-시스템 설계의 목적은 아래와 같습니다. 
+시스템 설계의 목적 
 
 1. 개발팀원들이 프로젝트의 주요 시스템에 대한 최소한의 이해만으로도 콘텐츠 개발이 가능하도록 설계
 2. 모든 체험형 레벨에서 동일한 개발 방식을 적용하여 팀원 간 유지보수와 테스트, 협업이 용이하도록 설계
@@ -125,3 +125,53 @@ XR Room 멀티 카메라 스티칭 시 화면 경계 불일치 문제
   - 6면 경계 일치 문제 해결 O
 
 </details>
+
+<br>
+
+---
+
+### 2. H.W.H
+
+| Unreal Engine (Blueprints / C++) 기반으로 개발한 **Action RPG 게임** <br>
+| 개발 기간 : 2024.09.16 ~ 2024.10.07 <br>
+
+
+🔗 **Repository**  
+[GitHub_Link](https://github.com/LCU97/Cat)
+
+<br>
+
+**담당 역할**
+- 플레이어 캐릭터 시스템 구현
+- 입력 처리 시스템 개발 
+- FSM 기반 상태 관리 시스템 구현 
+- 타겟팅 시스템 구현
+
+**개발 기록**
+- [Character 개발 정리](https://saparatian.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/H.W.H)
+<br>
+
+---
+
+### 3. Let's Go Maple
+
+| 메이플스토리 IP 를 이용하여 대전어린이병원의 환아들을 위한 femto bolt 모션 인신 센서 기반 실시간 인터렉티브 게임 개발 및 설치
+| 개발 기간 : 2025.09. ~ 2025.11
+| 유지/보수 기간 : 2025.12 ~ 2026.03
+
+<br>
+
+🔗 **Repository**  
+[GitHub_Link](https://github.com/finnn1/BloomingHope)
+
+<br>
+
+**담당 역할**
+- 게임 선택 레벨 및 레벨 이동 구현
+- Google Sheets API 기반 게임 이용자 수 집계 및 모니터링 기능 구현
+- 디자인 팀, 넥슨, 병원 관계자 일정 조율 및 개발팀 업무 및 일정 관리
+- 현장 설치 및 메뉴얼 작성
+
+<br>
+
+ 관련 기사 : [(https://www.gamemeca.com/view.php?gid=1768767)](https://www.gamemeca.com/view.php?gid=1768767)
