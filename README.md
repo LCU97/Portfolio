@@ -6,7 +6,7 @@
 
 ---
 ## 📑 Projects
-### 1. XR Interactive Content Framework
+### 1. XR Interactive Content Framework (사내 프로젝트)
 
 실감형 체험존의 벽과 바닥 전체에 프로젝션 매핑을 적용하고, 사용자 인터랙션이 가능한 XR 콘텐츠 개발
 
