@@ -148,7 +148,7 @@ XR Room 멀티 카메라 스티칭 시 화면 경계 불일치 문제
 - 타겟팅 시스템 구현
 
 **개발 기록**
-- [Character 개발 정리](https://saparatian.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/H.W.H)
+- [Character 개발 정리](https://saparation.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/H.W.H)
 <br>
 
 ---
