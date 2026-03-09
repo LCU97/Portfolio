@@ -10,6 +10,11 @@
 
 실감형 체험존의 벽과 바닥 전체에 프로젝션 매핑을 적용하고, 사용자 인터랙션이 가능한 XR 콘텐츠 개발
 
+<img width="610" height="457" alt="image" src="https://github.com/user-attachments/assets/ddb3bae8-570c-42cc-93d4-5151d2a91d0a" />
+
+
+출처 : [관련 기사](https://news.nate.com/view/20260108n116)
+
 <details>
 <summary>기술 스택 및 개발 환경</summary>
   
