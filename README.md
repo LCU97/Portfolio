@@ -13,7 +13,7 @@
 <img width="610" height="457" alt="image" src="https://github.com/user-attachments/assets/ddb3bae8-570c-42cc-93d4-5151d2a91d0a" />
 
 
-출처 : [관련 기사](https://news.nate.com/view/20260108n116)
+출처 : [관련 기사](https://news.nate.com/view/20260108n11681)
 
 <details>
 <summary>기술 스택 및 개발 환경</summary>
@@ -178,5 +178,5 @@ XR Room 멀티 카메라 스티칭 시 화면 경계 불일치 문제
 - 현장 설치 및 메뉴얼 작성
 
 <br>
-
+ 관련 영상 : [https://www.youtube.com/watch?v=yDWWOSF2NIc](https://www.youtube.com/watch?v=yDWWOSF2NIc)
  관련 기사 : [(https://www.gamemeca.com/view.php?gid=1768767)](https://www.gamemeca.com/view.php?gid=1768767)
