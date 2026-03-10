@@ -191,6 +191,11 @@ XR Room 멀티 카메라 스티칭 시 화면 경계 불일치 문제
  | Unreal Engine (Blueprints / C++) 를 사용하여 리슨 서버 기반의 비대칭 서바이벌 게임 개발 <br>
  | 개발 기간 : 2024.11.15 ~ 2024.12.27 <br>
 
+<img width="764" height="428" alt="image" src="https://github.com/user-attachments/assets/3dce9b24-3b91-45e5-934c-6724eb0c678d" />
+
+<br>
+
+<br>
 
  🔗 **Repository**  
  [GitHub_Link](https://github.com/zerohn/Pollute)
@@ -209,9 +214,6 @@ XR Room 멀티 카메라 스티칭 시 화면 경계 불일치 문제
 ## 5. Issac 3D 모작
 
 | Unreal Engine (Blueprints / C++) 기반으로 개발한 아이작 3D 모작 게임 <br>
-
-<img width="1727" height="1210" alt="image" src="https://github.com/user-attachments/assets/4d20073a-bd81-4632-a26c-a11184b986e1" />
-
 
 <br>
 
